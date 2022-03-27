@@ -2,5 +2,5 @@ info:
   profile: prod
 
 name: Paul
-words: "God bless you"
+words: "God bless you and"
 must: '{cipher}02d68e08f70e6fe0432883aad7a32abf3dbd4474aa1996c86028f32da6456eae'
